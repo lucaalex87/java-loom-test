@@ -1,5 +1,5 @@
 # java-loom-test
-Some test classes to test Java Project Loom or Virtual Threads. 
+Some example classes to test Java Project Loom / Virtual Threads. 
 
 # How to run
 
