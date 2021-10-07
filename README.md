@@ -9,6 +9,6 @@ Some test classes to test Java Project Loom or Virtual Threads.
 4. Example: C:\Program Files\Java\jdk-17\bin>java HttpServerSimpleThread.java
 
 # Attribution
-The WaitAndHurry example is borrowed from this article: https://mbien.dev/blog/entry/taking-a-look-at-virtual which is released under this license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+The WaitAndHurry example is borrowed from this article: https://mbien.dev/blog/entry/taking-a-look-at-virtual which is released under this license: https://creativecommons.org/licenses/by-nc-sa/4.0/ . The original example has been changed - like adding an index for tasks to print.
 
-The HttpServer ones are originals :) and are release under the MIT license. 
+The HttpServer ones are originals :) and are released under the MIT license. 
